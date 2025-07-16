@@ -69,7 +69,7 @@ def rolling_animation():
 def welcome_message():
     print("""
     ============================================
-            🎲 Welcome to the Group 6 Dice Roller! 🎲
+            🎲 Welcome to the YO Dice Roller! 🎲
     ============================================
     """)
 
